@@ -12,6 +12,7 @@ function sayHiToGrandma(string){
   }else if (string = string.toUpperCase()){
     return "YES INDEED!";
 }
+}
 
 function logShout(string) {
   console.log(string.toUpperCase());
